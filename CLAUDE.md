@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is Jason Liu's personal blog and consulting website built with MkDocs Material. The site features AI/ML technical content, consulting services, RAG education courses, and personal writing.
+This is SIM Kim Sia's (Kim Sia is my given name; SIM is surname) personal blog and consulting website built with MkDocs Material. The site features SWE/AI/ML technical content, consulting services, and personal writing.
 
 ## Build Commands
 
