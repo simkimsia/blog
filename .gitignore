@@ -12,3 +12,9 @@ package-lock.json
 
 # Build scripts
 scripts/build_with_uv.sh
+
+# specstory
+.specstory/
+
+# cursor
+.cursorindexingignore
