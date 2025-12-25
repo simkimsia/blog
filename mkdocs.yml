@@ -116,7 +116,7 @@ nav:
   # - Videos:
   #  - How I 3b1b: "videos/how-i-3b1b.md"
   - Git Setup: "git-setup-guide.md"
-  - Interactive Features: "interactive-features-guide.md"
+  # - Interactive Features: "interactive-features-guide.md"
   # - Investments: "investments.md"
   # - User Manual: "user_manual.md"
   # - Books: 'books.md'
@@ -183,4 +183,4 @@ extra_javascript:
   - javascripts/analytics.js
   - https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-copyright: Copyright &copy; 2023 Jason Liu
+copyright: Copyright &copy; 2025 SIM Kim Sia
