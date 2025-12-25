@@ -28,10 +28,3 @@
     ```
 
     Your public key is now in your clipboard!
-
-!!! note "PowerShell alternative"
-    If using PowerShell instead of Git Bash:
-
-    ```powershell
-    Get-Content ~/.ssh/id_ed25519.pub | Set-Clipboard
-    ```

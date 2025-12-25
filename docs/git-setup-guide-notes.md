@@ -56,3 +56,11 @@
 14. **Critical:** Add a step to **switch VS Code's default terminal to Git Bash** on Windows before any commands.
     - **Rationale:** We want users to learn Linux/Unix commands (`ls`, `cp`, `rm`, `ssh-add`, `clip`, etc.) that are transferable to macOS, Linux servers, WSL, and remote environments.
     - **This resolves issues #8 and #9** — `eval` and `clip <` will work correctly in Git Bash.
+
+15. **Enhancement:** Add screenshots and instructions for finding the public SSH key file.
+    - **Context:** The `.ssh` folder is often hidden by default, making it hard for beginners to find.
+    - **Requirement:** Provide screenshots for both Windows and macOS. Explain how to reveal hidden files/folders or use the terminal to copy the content.
+
+16. **Enhancement:** Add an explainer on Public vs. Private SSH keys.
+    - **Context:** Beginners often worry about security when asked to upload a "key".
+    - **Requirement:** Clearly explain why it is safe (and necessary) to upload the **public** key to GitHub, while emphasizing that the **private** key must never be shared.

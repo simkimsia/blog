@@ -24,6 +24,9 @@ We recommend using **VS Code** or **Antigravity** as your development environmen
     !!! tip "Why VS Code?"
         You'll be editing code anyway — having the terminal in the same window is convenient.
 
+    !!! tip "How to close the terminal in VS Code?"
+        Sometimes, you need to restart the terminal. You can do this by pressing the trash can icon in the top right corner of the terminal.
+
 === "Antigravity"
 
     **1. Install Antigravity** (if you haven't already)
@@ -36,7 +39,7 @@ We recommend using **VS Code** or **Antigravity** as your development environmen
     **2. Open the Terminal**
 
     1. Open Antigravity
-    2. Press `` Ctrl+` `` (Windows) or `` Cmd+` `` (macOS) to open the integrated terminal. An alternative is inside Antigravity (top menu) > Terminal > New Terminal.
+    2. Press `` Ctrl+` `` (Windows) or `` Cmd+` `` (macOS) to open the integrated terminal. An alternative is inside Antigravity (top menu) > **Terminal** > **New Terminal**.
 
     ??? tip "Where is the Backtick (`) key?"
         It is usually located above the **Tab** key and below **Esc**.
@@ -46,7 +49,10 @@ We recommend using **VS Code** or **Antigravity** as your development environmen
     !!! tip "Why Antigravity?"
         You'll be editing code anyway — having the terminal in the same window is convenient.
 
+    !!! tip "How to close the terminal in Antigravity?"
+        Sometimes, you need to restart the terminal. You can do this by pressing the trash can icon in the top right corner of the terminal.
+
 === "Standalone Terminal"
 
     - **macOS**: Open Terminal (in Applications → Utilities)
-    - **Windows**: Open PowerShell or Git Bash
+    - **Windows**: Open Git Bash

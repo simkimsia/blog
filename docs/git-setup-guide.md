@@ -7,9 +7,12 @@ description: A beginner-friendly guide to installing Git and connecting to GitHu
 
 A step-by-step checklist to get you set up with Git and GitHub. Check off each step as you complete it.
 
+!!! abstract "Target Audience"
+    This guide is designed for **beginners** who want to write code using either **Windows 11** or **macOS**.
+
 !!! tip "Our Recommended Setup"
 
-    This guide is **opinionated** — we've made the choices for you so you can focus on learning.
+    This guide is **opinionated** — we've made the choices for beginners so you can focus on learning.
 
     | Choice | Our Recommendation |
     |--------|-------------------|
@@ -37,7 +40,7 @@ A step-by-step checklist to get you set up with Git and GitHub. Check off each s
 
 ## :fontawesome-solid-circle-check: Step 2: Do You Have a GitHub Account?
 
-- [ ] **Already have a GitHub account?** → Skip to Step 3
+- [ ] **Already have a GitHub account?** → Skip to [Step 3](#step-3-install-git)
 - [ ] **Need an account?** → Follow these steps:
 
 --8<-- "includes/git-guide/_create-github-account.md"
@@ -81,7 +84,13 @@ SSH keys let you securely connect to GitHub without entering your password each 
 
 ### 5a. Check for Existing Keys
 
---8<-- "includes/git-guide/_check-ssh-key.md"
+=== ":fontawesome-brands-apple: macOS"
+
+    --8<-- "includes/git-guide/_check-ssh-key-macos.md"
+
+=== ":fontawesome-brands-windows: Windows"
+
+    --8<-- "includes/git-guide/_check-ssh-key-windows.md"
 
 ### 5b. Create a New SSH Key
 
@@ -95,7 +104,7 @@ Choose your operating system:
 
     --8<-- "includes/git-guide/_create-ssh-key-windows.md"
 
-### 5c. Add Key to GitHub
+### 5c. Add SSH Key to GitHub
 
 --8<-- "includes/git-guide/_add-ssh-to-github.md"
 
@@ -239,7 +248,7 @@ Choose your operating system:
 
 - [ ] GitHub account created
 - [ ] Git installed
-- [ ] (Optional) GUI client installed
+- [ ] GUI client installed
 - [ ] SSH key created and added to GitHub
 - [ ] Git identity configured
 - [ ] Successfully cloned a repository
