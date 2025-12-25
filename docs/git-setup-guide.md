@@ -1,6 +1,15 @@
 ---
+categories:
+- For Beginners in Tech
+description: Set up Git and GitHub with this beginner-friendly guide, featuring installation
+  steps, SSH setup, and first repository creation.
+tags:
+- Git
+- GitHub
+- Beginners
+- Version Control
+- SSH Setup
 title: Git Installation & Setup Guide
-description: A beginner-friendly guide to installing Git and connecting to GitHub with SSH
 ---
 
 # Git Installation & Setup Guide

@@ -1,14 +1,15 @@
-import os
-from typing import Optional, List, Set, Literal
 import asyncio
-from openai import AsyncOpenAI
+import os
+from typing import List, Literal, Optional, Set
+
+import frontmatter
+import instructor
 import typer
+from openai import AsyncOpenAI
+from pydantic import BaseModel, Field
 from rich.console import Console
 from rich.progress import Progress
 from rich.table import Table
-from pydantic import BaseModel, Field
-import instructor
-import frontmatter
 
 console = Console()
 client = instructor.from_openai(AsyncOpenAI())
@@ -39,8 +40,8 @@ async def generate_ai_frontmatter(
         categories: List[
             Literal[
                 "RAG",
+                "For Beginners in Tech",
                 "Applied AI",
-                "Losing my Hands",
                 "Entrepreneurship",
                 "Personal Growth",
                 "Software Engineering",

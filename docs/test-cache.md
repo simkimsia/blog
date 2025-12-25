@@ -1,3 +1,16 @@
+---
+categories:
+- Software Engineering
+description: Explore a test cache file showcasing sitemap caching and commit hook
+  functionalities for efficient content management.
+tags:
+- sitemap
+- caching
+- commit hooks
+- MD5
+- content management
+---
+
 # Test Cache File
 
 This is a test file to demonstrate sitemap caching and commit hook functionality.
