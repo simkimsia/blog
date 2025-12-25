@@ -55,6 +55,8 @@ I don't care so much about being able to read a chat transcript of a meeting I h
 
 Ultimately, a report's value goes beyond a wage worker answering questions—it supports high-leverage outcomes like strategic decision-making.
 
+--8<-- "includes/voting_widget.md"
+
 ## Future outcomes
 
 If RAG primarily becomes report generation it means two things are possible: 1. a marketplace of report-generating tools, and 2. the ability to effectively find the right report for your desired outcome. I think that question-answer sets are going to be of limited usefulness, while report generation addresses not only question-answer sets but the value of decision-making. When these reports are available in a marketplace of templates, they add further value because understanding what the template is defining becomes a skill in itself. These are the kinds of skills that people then take workshops on, get coaches for, and buy books about.

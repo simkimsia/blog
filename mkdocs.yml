@@ -1,18 +1,18 @@
-site_name: Jason Liu
-site_author: Jason Liu
+site_name: Kimsia's Blog
+site_author: Kimsia
 site_description: >-
-  AI Consulting, RAG, and other personal notes.
+  Personal notes and videos.
 repo_name: blog
-repo_url: https://github.com/jxnl/blog/
+repo_url: https://github.com/simkimsia/blog/
 site_url: https://jxnl.co/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Jason Liu 
+copyright: Copyright &copy; 2024 Kimsia
 theme:
   name: material
   custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
-    edit: material/pencil 
+    edit: material/pencil
     view: material/eye
     theme:
     admonition:
@@ -88,7 +88,7 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: jxnl 
+      user: jxnl
       repo: instructor
   - pymdownx.mark
   - pymdownx.smartsymbols
@@ -112,19 +112,21 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 nav:
-  - Home: 
-    - Introductions: 'index.md'
-    - Investments: "investments.md"
-    - User Manual: "user_manual.md"
-    - Books: 'books.md'
-    - Things: 'things.md'
-  - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
-  - Consulting:
-    - Consulting Services: "services.md"
-    - Jump on a Call: "expert-calls.md"
-    - Experts and Vendors: "experts-and-vendors.md"
-  - Resume: "resume.md"
-  - Job Board: "https://jobs.applied-llms.org"
+  - Home: 'index.md'
+  - Videos:
+    - How I 3b1b: "videos/how-i-3b1b.md"
+  - Git Setup: "git-setup-guide.md"
+  # - Investments: "investments.md"
+  # - User Manual: "user_manual.md"
+  # - Books: 'books.md'
+  # - Things: 'things.md'
+  # - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
+  # - Consulting:
+  #   - Consulting Services: "services.md"
+  #   - Jump on a Call: "expert-calls.md"
+  #   - Experts and Vendors: "experts-and-vendors.md"
+  # - Resume: "resume.md"
+  # - Job Board: "https://jobs.applied-llms.org"
   - Writing:
     - "writing/index.md"
 plugins:
