@@ -2,10 +2,10 @@
 
 ## Feedback from Windows User
 
-1. **Issue:** The user needs to download "antigravity" (likely referring to Git or the relevant software) and was stumped not knowing whether they are on an **x64** or **ARM** chip.
+1. ~~**Issue:** The user needs to download "antigravity" (likely referring to Git or the relevant software) and was stumped not knowing whether they are on an **x64** or **ARM** chip.~~ ✅ **IMPLEMENTED**
    - **Possible Solution:** Add instructions on how to check the system architecture on Windows (e.g., via *Settings > System > About*).
 
-2. **Issue:** Users may not be familiar with the backtick key (`` ` ``), which is essential for Markdown and code blocks.
+2. ~~**Issue:** Users may not be familiar with the backtick key (`` ` ``), which is essential for Markdown and code blocks.~~ ✅ **IMPLEMENTED**
    - **Possible Solution:** Add a small tip or image showing where the backtick key is located (usually above Tab/below Esc) and distinctions from a single quote text.
 
 3. **Issue:** When first installing "antigravity" on Windows, the onboarding process may take some time to complete.
@@ -28,7 +28,7 @@
    - **Simplified Solution:** Since we are NOT recommending a passphrase for SSH keys, we can entirely **skip** the `eval ssh-agent` and `ssh-add` steps on Windows.
    - **Action:** Update the guide to instruct users to press Enter (empty passphrase) during `ssh-keygen`. Then SSH will work automatically without needing the agent commands.
 
-9. **Issue:** `clip < ~/.ssh/id_ed25519.pub` fails in PowerShell.
+9. ~~**Issue:** `clip < ~/.ssh/id_ed25519.pub` fails in PowerShell.~~ ❌ **CANCELLED**
    - **Cause:** The `<` input redirection operator works differently or is less reliable in PowerShell for this specific `clip` command usage compared to cmd.exe or Bash.
    - **Solution:** Use the PowerShell native command to copy content:
      `Get-Content ~\.ssh\id_ed25519.pub | Set-Clipboard`
@@ -37,7 +37,7 @@
 10. **UX Feedback:** User prefers **collapsible sections** at each step so they can toggle to mark where they stopped or which step to focus on.
     - **Action:** Consider using `???+` (collapsed by default) or `???` admonitions for each major step, allowing users to expand only the step they're working on and visually track progress.
 
-11. **Enhancement:** Add **OS tab sync** so that selecting "Windows" or "macOS" in one step automatically switches all other OS-specific tabs on the page.
+11. ~~**Enhancement:** Add **OS tab sync** so that selecting "Windows" or "macOS" in one step automatically switches all other OS-specific tabs on the page.~~ ✅ **IMPLEMENTED**
     - **Implementation:** Enable MkDocs Material feature `content.tabs.link` in `mkdocs.yml`. This is built-in and also persists the user's choice via localStorage.
 
 12. **Enhancement:** Add **"Expand All" / "Collapse All"** buttons at the top of the guide.
