@@ -113,9 +113,10 @@ markdown_extensions:
       generic: true
 nav:
   - Home: 'index.md'
-  - Videos:
-    - How I 3b1b: "videos/how-i-3b1b.md"
+  # - Videos:
+  #  - How I 3b1b: "videos/how-i-3b1b.md"
   - Git Setup: "git-setup-guide.md"
+  - Interactive Features: "interactive-features-guide.md"
   # - Investments: "investments.md"
   # - User Manual: "user_manual.md"
   # - Books: 'books.md'
