@@ -4,9 +4,9 @@ site_description: >-
   Personal notes and videos.
 repo_name: blog
 repo_url: https://github.com/simkimsia/blog/
-site_url: https://jxnl.co/
+site_url: https://simkimsia.com/
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2024 Kimsia
+copyright: Copyright &copy; 2025 SIM Kim Sia
 theme:
   name: material
   custom_dir: overrides
@@ -170,12 +170,12 @@ extra:
   social:
     - icon: fontawesome/solid/rss
       link: feed_rss_created.xml
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/jxnlco
-    - icon: fontawesome/brands/github
-      link: https://github.com/jxnl
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/jxnl
+    # - icon: fontawesome/brands/twitter
+    #   link: https://twitter.com/jxnlco
+    # - icon: fontawesome/brands/github
+    #   link: https://github.com/jxnl
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/in/jxnl
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
