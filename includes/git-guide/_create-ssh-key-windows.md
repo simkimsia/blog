@@ -7,7 +7,9 @@
     ```
 
 2. Press **Enter** to accept the default file location
-3. Enter a passphrase (recommended) or press **Enter** for none
+3. Press **Enter** when asked for passphrase. You have to press **Enter** twice to confirm.
+
+    --8<-- "includes/git-guide/_ssh-key-location-windows.md"
 
 4. Start the SSH agent:
 

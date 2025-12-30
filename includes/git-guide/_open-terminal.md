@@ -8,8 +8,8 @@ We recommend using **VS Code** or **Antigravity** as your development environmen
 
     [Download VS Code](https://code.visualstudio.com/download){ .md-button .md-button--primary target="_blank" }
 
-    ??? info "Windows Users: Which version? (x64 vs ARM)"
-        --8<-- "includes/git-guide/_windows_architecture_check.md"
+
+    --8<-- "includes/git-guide/_windows_architecture_check.md"
 
     **2. Open the Terminal**
 
