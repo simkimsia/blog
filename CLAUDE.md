@@ -12,8 +12,8 @@ This is SIM Kim Sia's (Kim Sia is my given name; SIM is surname) personal blog a
 # Install dependencies (using uv as preferred)
 uv pip install -r requirements-doc.txt
 
-# Development server with live reload
-mkdocs serve
+# Development server with live reload with includes and overrides
+mkdocs serve --watch includes --watch overrides
 
 # Build static site
 mkdocs build

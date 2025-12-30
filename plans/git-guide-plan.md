@@ -102,7 +102,8 @@ Update the `pymdownx.snippets` configuration to include the new snippets base pa
 ## Verification Plan
 
 ### Manual Verification
-1. Run `mkdocs serve` locally
+
+1. Run `mkdocs serve --watch includes --watch overrides` locally
 2. Navigate to the new Git guide page
 3. Verify:
    - Content tabs switch correctly between OS instructions

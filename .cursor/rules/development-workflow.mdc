@@ -28,7 +28,7 @@ alwaysApply: false
 
 ### Building and Testing
 - **Build site**: `./build_mkdocs.sh` or `mkdocs build`
-- **Serve locally**: `mkdocs serve` for development preview
+- **Serve locally**: `mkdocs serve --watch includes --watch overrides` for development preview
 - **Generate sitemap**: [generate_sitemap.py](mdc:generate_sitemap.py) runs automatically via pre-commit
 
 ### Quality Assurance

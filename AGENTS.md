@@ -3,7 +3,7 @@
 ## Commands
 
 - `uv sync` - Install dependencies (use uv, not pip)
-- `mkdocs serve` - Development server with live reload
+- `mkdocs serve --watch includes --watch overrides` - Development server with live reload. Watch includes and overrides for changes.
 - `mkdocs build` or `./build_mkdocs.sh` - Build static site
 - `pre-commit run --all-files` - Run quality checks
 - `python check_links.py` - Validate all markdown links
