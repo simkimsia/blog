@@ -19,4 +19,4 @@ Welcome to my personal digital garden.
 
 
 - [**Git Setup Guide**](git-setup-guide.md): A guide to setting up Git on your machine.
-- [**Primer on Retrieval for Agentic Coding Workflows**](ai-code-retrieval-primer.md): A primer on modern code/text retrieval systems with a focus on coding workflows.
+- [**AI Code Retrieval Primer**](ai-code-retrieval-primer.md): A primer on modern code/text retrieval systems with a focus on coding workflows.

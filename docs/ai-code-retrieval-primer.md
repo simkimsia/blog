@@ -9,8 +9,10 @@ tags:
 - rerankers
 - software engineering
 - AI
-title: Primer on Retrieval for Agentic Coding Workflows
+title: A Primer on Retrieval for Agentic Coding Workflows
 ---
+
+# A Primer on Retrieval for Agentic Coding Workflows
 
 A summary of key articles on modern code/text retrieval systems with a focus on coding workflows.
 
