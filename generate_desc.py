@@ -41,6 +41,7 @@ async def generate_ai_frontmatter(
             Literal[
                 "RAG",
                 "For Beginners in Tech",
+                "AI4SE",
                 "Applied AI",
                 "Entrepreneurship",
                 "Personal Growth",
