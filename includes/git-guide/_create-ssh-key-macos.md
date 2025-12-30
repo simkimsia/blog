@@ -7,7 +7,13 @@
     ```
 
 2. Press **Enter** to accept the default file location
-3. Press **Enter** when asked for passphrase. You have to press **Enter** twice to confirm.
+3. Press **Enter** when asked for passphrase. You have to press **Enter** twice
+   to confirm.
+
+    ??? warning "Passphrases (Optional)"
+        You can add a passphrase for extra security, but it's beyond the scope of
+        this guide. This guide targets beginners who want to quickly get started
+        with Git.
 
 4. Start the SSH agent:
 
