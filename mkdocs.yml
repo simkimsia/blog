@@ -116,6 +116,7 @@ nav:
   # - Videos:
   #  - How I 3b1b: "videos/how-i-3b1b.md"
   - Git Setup: "git-setup-guide.md"
+  - AI Code Retrieval: "ai-code-retrieval-primer.md"
   # - Interactive Features: "interactive-features-guide.md"
   # - Investments: "investments.md"
   # - User Manual: "user_manual.md"

@@ -8,6 +8,21 @@
     user manual. Users encountering issues are encouraged to report the problem via
     GitHub or contact on Twitter. Key terms include 404 error, page not found, broken
     link, URL typo, navigation, popular content, and user support.
+ai-code-retrieval-primer.md:
+  hash: fe4b1ef067b02d8e8f8f310b8f19c046
+  summary: 'This primer explores advanced code retrieval systems tailored for agentic
+    coding workflows, emphasizing the importance of high recall over precision to
+    minimize irrelevant context and improve code generation. It compares embeddings
+    and rerankers, recommending two-stage retrieval for large codebases and rerankers
+    for dynamic ones, and highlights innovative techniques like multi-vector search
+    (ColBERT) and embedding quantization for efficiency. The guide reviews top code
+    embedding models (VoyageCode3, Nomic Embed Code) and advocates hybrid retrieval
+    combining traditional tools (grep/find) with embeddings for optimal results. Key
+    topics include semantic chunking, agentic retrieval, storage-efficient quantization,
+    and a decision framework for selecting retrieval strategies based on codebase
+    size and dynamics. Keywords: code retrieval, embeddings, rerankers, multi-vector
+    search, quantization, agentic retrieval, semantic chunking, code embedding models,
+    software engineering, AI.'
 git-setup-guide.md:
   hash: 357f0d2d362991c9dd379f5ac2f2c67b
   summary: 'This Git Installation & Setup Guide is a beginner-friendly, step-by-step
