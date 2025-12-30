@@ -42,6 +42,7 @@ async def generate_ai_frontmatter(
                 "RAG",
                 "For Beginners in Tech",
                 "AI4SE",
+                "AI Native Development",
                 "Applied AI",
                 "Entrepreneurship",
                 "Personal Growth",
