@@ -16,4 +16,4 @@ git config --global --list
 !!! tip "Per-project config"
     Omit `--global` to set identity for a specific repository only.
 
-![Configure Git Identity](../../images/git-guide/configure-git.png)
+![Configure Git Identity](images/git-guide/configure-git.png)

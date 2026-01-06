@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simkimsia.com/sitemap.xml

@@ -5,16 +5,19 @@ This idea is a map of several concepts while i figure out self-learning AI/ML st
 ## Stages
 
 ### Ingest
-*   **Explainers**: Forms of content to be consumed (e.g., YouTube videos like those by 3Blue1Brown).
-*   **Exercises**: Assignments, exams, or practice tasks.
+
+* **Explainers**: Forms of content to be consumed (e.g., YouTube videos like those by 3Blue1Brown).
+* **Exercises**: Assignments, exams, or practice tasks.
 
 ### Digest
-*   **Concepts**: Specific ideas to be acquired.
-*   **Coding**: Ability to write code or instruct AI to generate the right code.
+
+* **Concepts**: Specific ideas to be acquired.
+* **Coding**: Ability to write code or instruct AI to generate the right code.
 
 ### Possess
-*   **Intuitive Understanding**: Internal, invisible, hard to measure form of "knowing".
-*   **Fluency**: Performative form of "knowing".
+
+* **Intuitive Understanding**: Internal, invisible, hard to measure form of "knowing".
+* **Fluency**: Performative form of "knowing".
 
 ## Relationship Map
 

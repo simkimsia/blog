@@ -20,6 +20,6 @@ Hi username! You've successfully authenticated...
 !!! warning "First connection"
     On first connection, you'll be asked to verify GitHub's fingerprint. Type `yes`, then press `Enter` to continue.
 
-    ![Verify GitHub Fingerprint](../../images/git-guide/type-yes-fingerprint.png)
+    ![Verify GitHub Fingerprint](images/git-guide/type-yes-fingerprint.png)
 
 If you see `Hi username! You've successfully authenticated, but GitHub does not provide shell access.`, then proceed to [Step 6](#step-6-configure-git-identity).

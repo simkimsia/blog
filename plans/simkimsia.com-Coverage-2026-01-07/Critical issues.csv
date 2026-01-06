@@ -1,0 +1,7 @@
+Reason,Source,Validation,Pages
+Duplicate without user-selected canonical,Website,Not Started,24
+Not found (404),Website,Not Started,5
+Page with redirect,Website,Not Started,4
+Alternate page with proper canonical tag,Website,Not Started,2
+Server error (5xx),Website,N/A,0
+Crawled - currently not indexed,Google systems,N/A,0

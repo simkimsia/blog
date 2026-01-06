@@ -10,6 +10,7 @@ copyright: Copyright &copy; 2025 SIM Kim Sia
 theme:
   name: material
   custom_dir: overrides
+  favicon: favicon.ico
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
@@ -113,22 +114,8 @@ markdown_extensions:
       generic: true
 nav:
   - Home: 'index.md'
-  # - Videos:
-  #  - How I 3b1b: "videos/how-i-3b1b.md"
   - Git Setup: "git-setup-guide.md"
   - AI Code Retrieval: "ai-code-retrieval-primer.md"
-  # - Interactive Features: "interactive-features-guide.md"
-  # - Investments: "investments.md"
-  # - User Manual: "user_manual.md"
-  # - Books: 'books.md'
-  # - Things: 'things.md'
-  # - Learn to Improve Your RAG: "systematically-improve-your-rag.md"
-  # - Consulting:
-  #   - Consulting Services: "services.md"
-  #   - Jump on a Call: "expert-calls.md"
-  #   - Experts and Vendors: "experts-and-vendors.md"
-  # - Resume: "resume.md"
-  # - Job Board: "https://jobs.applied-llms.org"
   - Writing:
     - "writing/index.md"
 plugins:
@@ -171,12 +158,6 @@ extra:
   social:
     - icon: fontawesome/solid/rss
       link: feed_rss_created.xml
-    # - icon: fontawesome/brands/twitter
-    #   link: https://twitter.com/jxnlco
-    # - icon: fontawesome/brands/github
-    #   link: https://github.com/jxnl
-    # - icon: fontawesome/brands/linkedin
-    #   link: https://www.linkedin.com/in/jxnl
 extra_css:
   - stylesheets/extra.css
 extra_javascript:

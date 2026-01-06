@@ -4,4 +4,4 @@
 
     In **Windows Explorer**, you can find them at: `C:\Users\YourName\.ssh`
 
-    ![SSH Keys in Windows Explorer](../../images/git-guide/ssh-keys-in-windows.png)
+    ![SSH Keys in Windows Explorer](images/git-guide/ssh-keys-in-windows.png)
