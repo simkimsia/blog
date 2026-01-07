@@ -14,6 +14,8 @@ title: Git Installation & Setup Guide
 
 # Git Installation & Setup Guide
 
+--8<-- "includes/one-on-one-session.md"
+
 A step-by-step checklist to get you set up with Git and GitHub. Check off each step as you complete it.
 
 !!! abstract "Target Audience"
